@@ -1,0 +1,10 @@
+main: me.hiaiden2.Main
+name: AutoVanish
+version: 2.0
+author: Aiden Sheeran
+description: hiaiden2's AutoVanish Plugin for Doni
+softdepend: [SuperVanish, PremiumVanish]
+commands:
+  autovanish:
+    description: Random Command
+    usage: /autovanish
